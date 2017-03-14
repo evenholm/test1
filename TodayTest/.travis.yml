@@ -1,0 +1,5 @@
+language: objective-java
+
+xcode_project: TodayTest
+
+xcode_scheme: TodayTestOne
