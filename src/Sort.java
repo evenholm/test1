@@ -4,11 +4,7 @@ import java.util.*;
 public class Sort {
 		public static void main(String args[])
 		{
-			System.out.println("Please input 10 nums:");
-			int[] a=new int[10];
-			Scanner inputscan=new Scanner((System.in));
-			for(int i=0;i<10;i++)
-				a[i]=inputscan.nextInt();
+			int a[]={10,2,5,68,4,89,33,24,890,00};
 			for(int i=0;i<9;i++)
 			{
 				for(int j=i+1;j<10;j++)
