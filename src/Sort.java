@@ -21,7 +21,6 @@ public class Sort {
 					}
 				}
 			}
-			System.out.println("\nÅÅĞòºóÊı×é£º");
 			for(int i=0;i<10;i++)
 				System.out.print(a[i]+" ");
 		}
